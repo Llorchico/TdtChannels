@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2030898420681232384/TBZNbHLJ_200x200.jpg" group-title="P. de Asturias",Junta General del Principado de Asturias
+https://wmserver.jgpa.es/live/_definst_/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/gobiernodeasturias/picture?width=200&height=200" group-title="P. de Asturias",Gobierno del Principado de Asturias
+https://www.youtube.com/channel/UCyssDZ4splBnG9_jD-FOpFA/live

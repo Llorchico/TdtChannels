@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura",Canal Extremadura
+https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura",Toros (Canal Extremadura)
+https://cdn-canalextremadura.watchity.net/fast1/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura",Semos asina (Canal Extremadura)
+https://cdn-canalextremadura.watchity.net/fast3/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200" group-title="Extremadura",TV Extremeña
+https://player.twitch.tv/?channel=tvextremena&parent=play.tdtchannels.com
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AsambleaExtremadura/picture?width=200&height=200" group-title="Extremadura",Asamblea de Extremadura
+https://www.youtube.com/channel/UCDRei0Imqv9iV8mHQdYwGdQ/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/JuntaDeExtremadura/picture?width=200&height=200" group-title="Extremadura",Junta de Extremadura
+https://www.youtube.com/channel/UCjFp79A_UFcx01_4N0gwoSg/live
