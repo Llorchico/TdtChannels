@@ -24,7 +24,7 @@ https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200" group-title="Informativos",Libertad Digital TV
 https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos",Negocios TV
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Informativos",El Confidencial
 https://dgrfwaj8stp69.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hmbd9k13g6zsa/live/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos",Teledeporte
@@ -103,7 +103,7 @@ https://www.youtube.com/channel/UCHicabXz9rUMWLcdMqBtbxQ/live
 https://www.youtube.com/channel/UCuSo4gcgxJRf4Bzu43wwVyg/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/EnerGeekTelevision/picture?width=200&height=200" group-title="Infantiles",EnerGeek TV
 https://backend.energeek.cl/webtv/egretro/mobile/index.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales",+24
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Eventuales",+24
 https://ztnr.rtve.es/ztnr/6108696.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales",+tdp
 https://ztnr.rtve.es/ztnr/6712432.m3u8
@@ -124,7 +124,7 @@ https://ztnr.rtve.es/ztnr/16656232.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Al cielo con ella (RTVE)
 https://ztnr.rtve.es/ztnr/16862827.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",En Play (RTVE)
-https://ztnr.rtve.es/ztnr/6712399.m3u8
+https://ztnr.rtve.es/ztnr/17017351.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Eventuales",Radio Nacional
 https://ztnr.rtve.es/ztnr/6982891.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="Eventuales",Radio 3
@@ -278,7 +278,7 @@ https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/masjerez/picture?width=200&height=200" group-title="Andalucía",Más Jerez
 https://www.youtube.com/channel/UCOoSrqLzlo_S5yQK3OmFqWw/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AlmerTV/picture?width=200&height=200" group-title="Andalucía",Almería TV
-https://broadcast1.radioponiente.org/live/smil:atv.smil/playlist.m3u8
+https://broadcast1.radioponiente.org/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/6SgTMpyVCJlMGBcip6gvloYy2u-BP4vY-H2paJ2zO471owJq_YcgPhUUB0tBaKIKlNUKzeRf=s200" group-title="Andalucía",Canal San Roque
 https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="Andalucía",PTV Linares
@@ -493,7 +493,7 @@ https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
 https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="Cataluña",TV Costa Brava
 https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Cataluña",L'Hospitalet Digital
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Cataluña",L'Hospitalet TV
 https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200" group-title="Cataluña",Penedès TV
 https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR
