@@ -17,7 +17,7 @@ https://live.enfoque.media:5443/live/streams/vinxtv.m3u8
 https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/ff403089-1c81-41d3-bb18-b817b1f01721-width200-quality90.jpeg" group-title="Deportivos",Top Barça
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fcbarcelona/picture?width=200&height=200" group-title="Deportivos",Top Barça
 https://amg17560-fcb-amg17560c2-samsung-es-9803.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200" group-title="Deportivos",Real Sociedad TV
 https://www.youtube.com/channel/UCfeqewEKWQ8CXY8OiXoMxxw/live
@@ -33,8 +33,12 @@ https://www.youtube.com/channel/UCop57Z1sYHrtCyxCpE2z2Bg/live
 https://www.youtube.com/diarioas/live
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2065126148518862848/S19U3KPQ_200x200.jpg" group-title="Deportivos",El 10 del Barça
 https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elpartidazodecope/picture?width=200&height=200" group-title="Deportivos",El Partidazo de COPE
+https://www.youtube.com/channel/UC3w4rq4MqM3hPcbBdnxd_2A/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tiempodejuego/picture?width=200&height=200" group-title="Deportivos",Tiempo de Juego COPE
 https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/carruseldeportivo/picture?width=200&height=200" group-title="Deportivos",Carrusel Deportivo SER
+https://www.youtube.com/channel/UCTapFcyNk2zzc7LnPUjNNQA/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/kingsleague.pro/picture?width=200&height=200" group-title="Deportivos",Kings League
 https://player.twitch.tv/?channel=kingsleague&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cazaflixoficial/picture?width=200&height=200" group-title="Deportivos",Cazaflix

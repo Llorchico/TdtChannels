@@ -42,7 +42,7 @@ https://www.youtube.com/channel/UCHVquS6wXQAsESO2bwZ7esw/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Andalucía",101TV Málaga
 https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="Andalucía",101TV Málaga Cofrade
-https://liveingesta318.cdnmedia.tv/101televisionlive/smil:cofradeott1.smil/playlist.m3u8
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeMalaga.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/107654981928274/picture?width=200&height=200" group-title="Andalucía",Almería 24h TV
 https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía",Onda Cádiz
@@ -70,11 +70,9 @@ https://5f71743aa95e4.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101TVSevilla/picture?width=200&height=200" group-title="Andalucía",101TV Sevilla
 https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101TVSevilla/picture?width=200&height=200" group-title="Andalucía",101TV Sevilla Cofrade
-https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillacofrade2.smil/playlist.m3u8
+https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeSevilla.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvgranada/picture?width=200&height=200" group-title="Andalucía",101TV Granada
 https://liveingesta318.cdnmedia.tv/101weblive/smil:granada.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvgranada/picture?width=200&height=200" group-title="Andalucía",101TV Granada Cofrade
-https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeGranada.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="Andalucía",CanalCosta
 https://5f71743aa95e4.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200" group-title="Andalucía",Condavisión
@@ -91,6 +89,8 @@ https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="Andalucía",Canal Málaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/101Almeria/picture?width=200&height=200" group-title="Andalucía",101TV Almería
+https://liveingesta318.cdnmedia.tv/101weblive/smil:ALMERIA.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="Andalucía",101TV Antequera
 https://liveingesta318.cdnmedia.tv/101weblive/smil:antequera.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dFDfeITvIVgSQQSNlgLw1WJ98Icuw-WlYJXNp31UhoABX3LOrJjXafo6a2H9EfhrA9Ah9e84=s200" group-title="Andalucía",101TV Cádiz
@@ -146,7 +146,7 @@ https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía",PTV Córdoba
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/126011457417096/picture?width=200&height=200" group-title="Andalucía",TV Carmona
-https://youtu.be/2Xe1jLQ67II
+https://youtu.be/VVmkfTKxOyk
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="Andalucía",Canal Coín
 https://canalcoin.garjim.es/hls/directo.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Andalucía",Diez TV Andújar
