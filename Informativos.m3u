@@ -9,11 +9,17 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 https://d2epgk1fomaa1g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9n8y4tw0bk3an/live/fast-channel-el-pais/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LaVanguardia/picture?width=200&height=200" group-title="Informativos",La Vanguardia
 https://www.youtube.com/channel/UClLLRs_mFTsNT5U-DqTYAGg/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200" group-title="Informativos",Agencia EFE
-https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200" group-title="Informativos",Libertad Digital TV
-https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg" group-title="Informativos",Negocios TV
-https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Informativos",Cadena SER
+https://www.youtube.com/channel/UCQ2Fej5pr1ipVeBWTX8Sc_Q/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="Informativos",El Confidencial
 https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-bmo0niz694whx.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/okdiario/picture?width=200&height=200" group-title="Informativos",Okdiario
+https://www.youtube.com/channel/UCf6W-gNFClPt_XtQ6P44NTg/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200" group-title="Informativos",Agencia EFE
+https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eldebatecom/picture?width=200&height=200" group-title="Informativos",El Debate
+https://www.youtube.com/channel/UC8FOhz3iXhF1iqqzAFfBjmA/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Negociostele/picture?width=200&height=200" group-title="Informativos",Negocios TV
+https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-negociostv-samsunges/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200" group-title="Informativos",Libertad Digital TV
+https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live
