@@ -3,8 +3,6 @@
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos",GOL
 https://geo.dailymotion.com/player/x1k3pa.html?video=k5cyQ3rl70nCl7Fhb5W
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos",GOL Classics
-https://geo.dailymotion.com/player/x1k3pa.html?video=k7BHb9t9RdbAM0FhbmE
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport 3
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="Deportivos",ETB Deportes

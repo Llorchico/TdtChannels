@@ -50,7 +50,7 @@ https://player.twitch.tv/?channel=teve4televisio&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/452144347593465856/NWj5Y9hn_200x200.png" group-title="C. Valenciana",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200" group-title="C. Valenciana",Canal 3 Biar
-https://avantstreaming.es/hls/canal3.m3u8
+https://avantstreaming.es/hls/canal3hd_hi.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiobocairent/picture?width=200&height=200" group-title="C. Valenciana",Ràdio Bocairent TV
 https://player.twitch.tv/?channel=radiobocairent&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200" group-title="C. Valenciana",Ciudades Del Ocio TV
