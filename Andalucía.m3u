@@ -47,10 +47,12 @@ https://liveingesta318.cdnmedia.tv/101weblive/smil:CofradeMalaga.smil/playlist.m
 https://broadcast1.radioponiente.org/almeria24h_aac/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía",Onda Cádiz
 https://liveingesta318.cdnmedia.tv/ondacadizlive/smil:ondacadiztv.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvChiclana/picture?width=200&height=200" group-title="Andalucía",8TV Sierra de Cádiz
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="Andalucía",8TV Sierra de Cádiz
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvChiclana/picture?width=200&height=200" group-title="Andalucía",8TV Chiclana
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="Andalucía",8TV Chiclana
 https://s.emisoras.tv:8081/chiclana/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="Andalucía",8TV La Janda
+https://s.emisoras.tv:8081/lajanda/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200" group-title="Andalucía",Tuya La Janda TV
 https://nimble.tuyapro.es/app/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="Andalucía",Onda Algeciras TV
@@ -146,7 +148,7 @@ https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía",PTV Córdoba
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/126011457417096/picture?width=200&height=200" group-title="Andalucía",TV Carmona
-https://youtu.be/27HezaB-n_Q
+https://youtu.be/T7ybAXtFzec
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="Andalucía",Canal Coín
 https://canalcoin.garjim.es/hls/directo.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Andalucía",Diez TV Andújar

@@ -2,19 +2,21 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Cataluña",TV3
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="Cataluña",33
-https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Exclusiu 1
 https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Exclusiu 2
 https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Exclusiu 3
 https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Exclusiu 4
+https://directes-tv-cat.3catdirectes.cat/live-content/oca4-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Anime
-https://directes-tv-es.3catdirectes.cat/live-content/tem2-hls/master.m3u8
+https://directes-tv-cat.3catdirectes.cat/live-content/tem2-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Doraemon
 https://fast-tailor.3catdirectes.cat/v1/channel/doraemon/hls.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/3CatInfoElTemps/picture?width=200&height=200" group-title="Cataluña",3Cat Càmeres del temps
-https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+https://directes-tv-cat.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Joc de Cartes
 https://fast-tailor.3catdirectes.cat/v1/channel/joc-de-cartes/hls.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Plats bruts
@@ -22,7 +24,7 @@ https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Vinagreta
 https://fast-tailor.3catdirectes.cat/v1/channel/vinagreta/hls.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/som3Cat/picture?width=200&height=200" group-title="Cataluña",3Cat Verdi Clàssics
-https://directes-tv-es.3catdirectes.cat/live-content/tem1-hls/master.m3u8
+https://directes-tv-cat.3catdirectes.cat/live-content/tem1-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKAkEfk96B4C3wdml0A6_Ewv8zhsVAj2AVDSLpS34DMw&s" group-title="Cataluña",La 1 Catalunya
 https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz-PTZCuOfGtshG9A9z2phYEL97ppHhD0cug&s" group-title="Cataluña",La 2 Cat
@@ -31,11 +33,17 @@ https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Radio4RNE/picture?width=200&height=200" group-title="Cataluña",Ràdio 4
 https://ztnr.rtve.es/ztnr/6982935.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="Cataluña",Bon Dia TV
-https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.bondiatv.org/img/icon/apple-touch-icon.png" group-title="Cataluña",Bon Dia TV
+https://directes-tv-cat.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Cataluña",betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/protocol/https/format/applehttp/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalreus.cat/picture?width=200&height=200" group-title="Cataluña",Canal Reus TV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200" group-title="Cataluña",Canal Terres de l'Ebre
+https://laxarxames.cat/player/8036
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/el9nou/picture?width=200&height=200" group-title="Cataluña",El 9 TV
+https://laxarxames.cat/player/8038
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Canal21Ebre/picture?width=200&height=200" group-title="Cataluña",Canal 21 Ebre
+https://laxarxames.cat/player/8031
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalreus.cat/picture?width=200&height=200" group-title="Cataluña",Canal Reus
 https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/empordatv/picture?width=200&height=200" group-title="Cataluña",Empordà TV
 https://video3.lhdserver.es/empordatv2/live.m3u8
@@ -43,20 +51,30 @@ https://video3.lhdserver.es/empordatv2/live.m3u8
 https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tacdotze/picture?width=200&height=200" group-title="Cataluña",TAC 12
 https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvmataro/picture?width=200&height=200" group-title="Cataluña",tvmataró
+https://www.laxarxames.cat/player/6126
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LleidaTV/picture?width=200&height=200" group-title="Cataluña",Lleida TV
 https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalBlau/picture?width=200&height=200" group-title="Cataluña",Canal Blau TV
+https://www.laxarxames.cat/player/8032
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvcostabrava/picture?width=200&height=200" group-title="Cataluña",TV Costa Brava
 https://liveingesta318.cdnmedia.tv/costabravatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/olotelevisio/picture?width=200&height=200" group-title="Cataluña",Olot Televisió
+https://laxarxames.cat/player/8042
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/lhdigital/picture?width=200&height=200" group-title="Cataluña",L'Hospitalet TV
 https://liveingesta318.cdnmedia.tv/tvhospitaletlive/smil:tvhospitalet.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cugatmedia/picture?width=200&height=200" group-title="Cataluña",Cugat TV
+https://laxarxames.cat/player/8037
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200" group-title="Cataluña",Penedès TV
 https://liveingesta318.cdnmedia.tv/rtvvilafrancalive/smil:live.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="Cataluña",Canal 4 TV Cataluña
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/GRUP4COM/picture?width=200&height=200" group-title="Cataluña",Canal 4 TV Catalunya
 https://5caf24a595d94.streamlock.net:1937/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/taronja.cat/picture?width=200&height=200" group-title="Cataluña",Canal Taronja Central
 https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200" group-title="Cataluña",RTV El Vendrell
 https://liveingesta318.cdnmedia.tv/tvvendrelllive/smil:directe.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200" group-title="Cataluña",TV Berguedà
+https://laxarxames.cat/player/8046
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200" group-title="Cataluña",Canal Taronja Anoia
 https://ingest1-video.streaming-pro.com/canaltaronja/anoia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/votv.cat/picture?width=200&height=200" group-title="Cataluña",VOTV
@@ -65,14 +83,20 @@ https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
 https://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TaronjaTV/picture?width=200&height=200" group-title="Cataluña",Canal Taronja Osona i Moianés
 https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1993636082642976768/7YX0mFB8_200x200.jpg" group-title="Cataluña",Badalona TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1993636082642976768/7YX0mFB8_200x200.jpg" group-title="Cataluña",BDN Badalona TV
 https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="Cataluña",TVGirona
+https://laxarxames.cat/player/8044
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PirineusTV/picture?width=200&height=200" group-title="Cataluña",Pirineus TV
 https://g0.ipcamlive.com/player/player.php?alias=65564dc398f45&autoplay=1&disableplaybackspeedbutton=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200" group-title="Cataluña",RTV Cardedeu
 https://liveingesta318.cdnmedia.tv/tvcardedeulive/smil:rtmp01.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200" group-title="Cataluña",TV Sabadell Vallès
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200" group-title="Cataluña",Vallès Visió
+https://laxarxames.cat/player/8049
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200" group-title="Cataluña",TV Sabadell - Vallès
 https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/banyolestelevisio/picture?width=200&height=200" group-title="Cataluña",Banyoles Televisió
+https://www.laxarxames.cat/player/8029
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Yo_LIch5OT5hTA24FMlshk7MtHpuUbVoOd8U2HJGw6el7-cCkAhH8_ISKmww17wHn37FCOF_rg=s200" group-title="Cataluña",Piera TV
 https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña",etv

@@ -46,7 +46,7 @@ https://play.turesportmedia.com/hls/abr_tvalmassora/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="C. Valenciana",Punt 3 Vall Uixó
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/438700741801177088/MdnaVxtC_200x200.png" group-title="C. Valenciana",Tevequatre TV
-https://player.twitch.tv/?channel=teve4televisio&parent=play.tdtchannels.com
+https://player.twitch.tv/?channel=teve4televisionn&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/452144347593465856/NWj5Y9hn_200x200.png" group-title="C. Valenciana",Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQt5rluj5KRX0HGcMvHLxSUJuhjZe4Y1GfuA0NjpHf5Q=s200" group-title="C. Valenciana",Canal 3 Biar
