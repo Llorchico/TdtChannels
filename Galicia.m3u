@@ -32,4 +32,4 @@ https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodegalicia/picture?width=200&height=200" group-title="Galicia",Parlamento de Galicia
 https://pgalicia-live.akamaized.net/hls/live/2040697/pleno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/@xuntadegalicia/picture?width=200&height=200" group-title="Galicia",Xunta de Galicia
-https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/bitrate_2.m3u8
+https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/master.m3u8
