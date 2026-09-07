@@ -102,7 +102,7 @@ https://5d776b1861da1.streamlock.net/piera/smil:piera.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/etv.llobregat/picture?width=200&height=200" group-title="Cataluña",etv
 https://liveingesta318.cdnmedia.tv/tvetvlive/smil:rtmp01.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tvsantcugat/picture?width=200&height=200" group-title="Cataluña",TV Sant Cugat
-https://www.youtube.com/channel/UCO_HcwAMD_XcZWfqidMtfgw/live
+https://www.youtube.com/channel/UCoFs7RGrmWQkqU5KNNGvCjA/live
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ovQWWhA18AZmmjp34yMreDiMViVWDNDV4goBCru2tkA0_MClFvT-j63WIKKooNwotM9ZAlri=s200" group-title="Cataluña",22TV Televisió de Solsona
 https://player.twitch.tv/?channel=22tv_celsona&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/governcat/picture?width=200&height=200" group-title="Cataluña",Govern de la Generalitat de Catalunya
