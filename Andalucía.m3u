@@ -161,6 +161,8 @@ https://video3.lhdserver.es/cartayatv/live.m3u8
 https://d16pwlnz9msuji.cloudfront.net/wct-dad9c712-1c61-4a61-aeee-8be9f5c9e6e9/continuous/8fbfd2f5-30c2-4d48-a24e-73f5d35ba491/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Telegranada/picture?width=200&height=200" group-title="Andalucía",TeleGranada
 https://telegranada.es/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/dQxpHlPEeQ6XTzXJu7eJa36C7nT7TjxecHbznRDwEqWmdV5Upl8VMafZMHhCfToJGcdTcy1_bJA=s200" group-title="Andalucía",Huelva Conecta
+https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10" group-title="Andalucía",Music TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200" group-title="Andalucía",Cofradias 24h
