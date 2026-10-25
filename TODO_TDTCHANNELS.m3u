@@ -7,7 +7,7 @@ https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Generalistas",TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Generalistas",RNE para todos
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Generalistas",RNE Accesible
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1634293543987453954/mb1Rzmso_200x200.jpg" group-title="Informativos",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
@@ -38,7 +38,7 @@ https://www.youtube.com/channel/UCf6W-gNFClPt_XtQ6P44NTg/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200" group-title="Informativos",Agencia EFE
 https://www.youtube.com/channel/UCvJS-YNyaWyOucx8bGrHVvw/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Informativos",Onda Cero
-https://atres-live.ondacero.es/h264/live/obs/master.m3u8
+https://www.youtube.com/channel/UCPd-Lf5gQkAJD5XdTmT_GGA/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eldebatecom/picture?width=200&height=200" group-title="Informativos",El Debate
 https://www.youtube.com/channel/UC8FOhz3iXhF1iqqzAFfBjmA/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Negociostele/picture?width=200&height=200" group-title="Informativos",Negocios TV
@@ -47,7 +47,7 @@ https://negociostv-negociostv-samsunges.amagi.tv/hls/amagi_hls_data_negociost-ne
 https://www.youtube.com/channel/UCUS73_bjTYwBFAfXbvIjM8Q/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos",Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos",GOL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2104982255642800128/IRiUy9-D_200x200.jpg" group-title="Deportivos",Replay
 https://geo.dailymotion.com/player/x1k3pa.html?video=k5cyQ3rl70nCl7Fhb5W
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport3
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
@@ -59,6 +59,8 @@ https://live.enfoque.media:5443/live/streams/vinxtv.m3u8
 https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fcbarcelona/picture?width=200&height=200" group-title="Deportivos",Barça Play
+https://www.youtube.com/channel/UC14UlmYlSNiQCBe9Eookf_A/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fcbarcelona/picture?width=200&height=200" group-title="Deportivos",Top Barça
 https://amg17560-fcb-amg17560c2-samsung-es-9803.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200" group-title="Deportivos",Real Sociedad TV
@@ -83,6 +85,8 @@ https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live
 https://www.youtube.com/channel/UCTapFcyNk2zzc7LnPUjNNQA/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ellarguero/picture?width=200&height=200" group-title="Deportivos",El Larguero SER
 https://www.youtube.com/channel/UC2BfAWhbAsmPnXHpWYKR7aQ/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElChiringuitoTV/picture?width=200&height=200" group-title="Deportivos",El Chiringuito Inside
+https://www.youtube.com/channel/UCznSLkPhcORf0JhonB7Aegg/live
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TN6JuWH7_2QEyEgz81uzWfxjD4ZKqxGZhIPhJqa1lB1QwzXzKn6Fh9f_REUq-2oDElrZCZcYDw=s200" group-title="Deportivos",El 10 del Barça
 https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X0bGxD-L9n15kflOHVOKwub0JtwK7blNF8V56Jag09rQ5W1SV4QsTIfy_APiUdAMRCx_9iopaw=s200" group-title="Deportivos",ElevenTV
@@ -151,11 +155,7 @@ https://ztnr.rtve.es/ztnr/6909845.m3u8
 https://ztnr.rtve.es/ztnr/16656232.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",Al cielo con ella (RTVE)
 https://ztnr.rtve.es/ztnr/16862827.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",En Play (RTVE)
-https://ztnr.rtve.es/ztnr/17017351.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales",San Sebastián Fes (RTVE)
-https://ztnr.rtve.es/ztnr/16720260.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2043783978084139008/xkY_Qebc_200x200.jpg" group-title="Eventuales",El Sótano Club (Ten)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVuikonJt455AwOA15xtXQs2-vxyDEcLzr-iR85njJOnfEIXtDrvFgnYY" group-title="Eventuales",El Sótano Club (Ten)
 https://www.youtube.com/channel/UCX_GBaJP8CtYdI8-lH2VrJA/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="Eventuales",Canal Parlamento
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
@@ -167,7 +167,7 @@ https://www.youtube.com/channel/UCzJtDQ9b_Uq1tA5W_tMiMUQ/live
 https://senadolive.akamaized.net/hls/live/2006551/punto1/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/realibai/picture?width=200&height=200" group-title="Streaming",Ibai
 https://player.twitch.tv/?channel=ibai&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPEKR92FAWkKk7XniD6J5Zdy5b-BH0u02P5LDAMw=s200" group-title="Streaming",Auronplay
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPEKR92FAWkKk7XniD6J5Zdy5b-BH0u02P5LDAMw=s200" group-title="Streaming",AuronPlay
 https://player.twitch.tv/?channel=auronplay&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1763308910692184064/PD37Hou2_200x200.jpg" group-title="Streaming",TheGrefg
 https://player.twitch.tv/?channel=thegrefg&parent=play.tdtchannels.com
@@ -175,21 +175,21 @@ https://player.twitch.tv/?channel=thegrefg&parent=play.tdtchannels.com
 https://player.twitch.tv/?channel=Rubius&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/1jxaHxZeE4bS01S1wGdRpkR_4vPpvstqTPUoViCqZ5W6jO7HF0eBR_nkBjzGCAy65fO-sggX=s200" group-title="Streaming",Gerard Romero
 https://player.twitch.tv/?channel=gerardromero&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WjoCU8JYUqibZEkKfyyqqcJQuu_OVeabYAdg-DHoVoIKeHNF7_6yMuavIV4m3bqHS5fWPUMBsGc=s200" group-title="Streaming",Illojuan
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WjoCU8JYUqibZEkKfyyqqcJQuu_OVeabYAdg-DHoVoIKeHNF7_6yMuavIV4m3bqHS5fWPUMBsGc=s200" group-title="Streaming",IlloJuan
 https://player.twitch.tv/?channel=Illojuan&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZJXM8TB4P4cdyZdxF5B4tQFHCyzBZwOoxEwdM1A=s200" group-title="Streaming",Elxokas
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZJXM8TB4P4cdyZdxF5B4tQFHCyzBZwOoxEwdM1A=s200" group-title="Streaming",elxokas
 https://player.twitch.tv/?channel=elxokas&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A3M8gNtFArvocv-EytF1buhnRq_athwchwpJ5cJn742R-Q2DK4nSShkzaWBjvCPqVnQ2CTJc=s200" group-title="Streaming",Guanyar
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A3M8gNtFArvocv-EytF1buhnRq_athwchwpJ5cJn742R-Q2DK4nSShkzaWBjvCPqVnQ2CTJc=s200" group-title="Streaming",GUANYAR
 https://player.twitch.tv/?channel=guanyar&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW0v2dloqL3xrStQYfxTrMUH_fD9IJhJ3SdpAzgFw=s200" group-title="Streaming",IamCristinini
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW0v2dloqL3xrStQYfxTrMUH_fD9IJhJ3SdpAzgFw=s200" group-title="Streaming",Cristinini
 https://player.twitch.tv/?channel=iamcristinini&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/veolbCFG2UsAiiq0SUFoz5dluY4wZ8rPHOwjtGB2ofWX-uWAkMr9UccYlAYfpEGO8OpkC9oHGA=s200" group-title="Streaming",Mixwell
 https://player.twitch.tv/?channel=mixwell&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIHF_Oc2KsUnn62RutoClTgrWxcXXHfG6zwCnYjA=s200" group-title="Streaming",Juansguarnizo
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIHF_Oc2KsUnn62RutoClTgrWxcXXHfG6zwCnYjA=s200" group-title="Streaming",JuanSGuarnizo
 https://player.twitch.tv/?channel=juansguarnizo&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njzAxPADBPZUY4IOKiewazHI399fwe5c6NkU8fEHOwZw=s200" group-title="Streaming",Knekro
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njzAxPADBPZUY4IOKiewazHI399fwe5c6NkU8fEHOwZw=s200" group-title="Streaming",knekro
 https://player.twitch.tv/?channel=knekro&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mKpJl4-mVy59lPn3X_gv1gfsufVK4yecUoW7_YAzgPMgNg04me10zA1q7B11A8Vw2dAxVY9E6A=s200" group-title="Streaming",LOLITOFDEZ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mKpJl4-mVy59lPn3X_gv1gfsufVK4yecUoW7_YAzgPMgNg04me10zA1q7B11A8Vw2dAxVY9E6A=s200" group-title="Streaming",LOLiTO FDEZ
 https://player.twitch.tv/?channel=lolitofdez&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="Andalucía",Canal Sur Andalucía
 https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/74cdbd1b401a7598ab8f3e9b5652c9909daa60dd4f6f96f28396a3f1cfd926f2.m3u8
@@ -251,12 +251,10 @@ https://nimble.tuyapro.es/app/tv/playlist.m3u8
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVMalaga/picture?width=200&height=200" group-title="Andalucía",PTV Málaga
 https://streamer.zapitv.com/PTV-malaga/index.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/HuelvaTelevision/picture?width=200&height=200" group-title="Andalucía",Huelva TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2016115597247918080/0fbRUb7v_200x200.jpg" group-title="Andalucía",Huelva TV
 https://www.youtube.com/channel/UCfeAbEOHhmzJOTpSn0cxYuA/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb6DZpbxOMbN_VANCdenLck4ceg7gxMk5tnkjmM=s200" group-title="Andalucía",Andalucía Cocina
 https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYsl5e6jEIMtXIoTUHvkJqXxDfASrvQP_QFRRww=s200" group-title="Andalucía",Andalucía Turismo
-https://stream-us-east-1.getpublica.com/playlist.m3u8?&network_id=12685&live=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="Andalucía",Córdoba TV
 https://www.youtube.com/channel/UCxNWrznyWiIMZfcjazVRDjg/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Teleonuba/picture?width=200&height=200" group-title="Andalucía",Teleonuba
@@ -312,7 +310,7 @@ https://streamer.zapitv.com/PTV_sevilla/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telequivirtv/picture?width=200&height=200" group-title="Andalucía",TeleQuivir
 https://www.youtube.com/channel/UCW-d2GjwGd8AT5AU9LQBbeQ/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telemotriltv/picture?width=200&height=200" group-title="Andalucía",Telemotril
-https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
+https://video.telemotril.com/telemotril-channel-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telecija.televisioncomarcal/picture?width=200&height=200" group-title="Andalucía",Telécija
 https://www.youtube.com/channel/UCt1NlIsb2Ld59S20rvAeihg/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200" group-title="Andalucía",RTV Tarifa
@@ -338,7 +336,7 @@ https://streamer.zapitv.com/PTV-granada/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="Andalucía",PTV Córdoba
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/126011457417096/picture?width=200&height=200" group-title="Andalucía",TV Carmona
-https://www.youtube.com/channel/UCEqYDRitpW-b3FV-FJAgDkQ/live
+https://www.youtube.com/channel/UCOBh4DaxY1mF1xewbA0MN2g/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="Andalucía",Canal Coín
 https://canalcoin.garjim.es/hls/directo.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="Andalucía",Diez TV Andújar
@@ -357,7 +355,7 @@ https://telegranada.es/hls/stream.m3u8
 https://servidor.islahostingla.com:3542/live/huelvaconecta3live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoBxvKI5aUExkO9mNDloNQ8ADAvcaRNMvPSzD2J81vIdO6oqZ1N7R-yWKK&s=10" group-title="Andalucía",Music TV Granada
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200" group-title="Andalucía",Cofradias 24h
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/eM_41EMbfLT9omch7MIGSlwg71gjSrsrPpS7TuBlFjYXLrC5pIIx8zx9SJ0q2Gvf2Gj3nblYFAw=s200" group-title="Andalucía",Cofradías 24h
 https://www.youtube.com/channel/UCv5WgSisSDgI90g8-E5rU7Q/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="Andalucía",Parlamento de Andalucía
 https://stream1.parlamentodeandalucia.es/realizacion1/realizacion1/playlist.m3u8
@@ -371,7 +369,7 @@ http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u
 https://player.twitch.tv/?channel=tvbarbastro&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AltoaragonTV/picture?width=200&height=200" group-title="Aragón",Altoaragón Televisión
 https://www.youtube.com/channel/UCZr6G49BImhh_ltJD2rF6rw/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200" group-title="Aragón",Cortes de Aragón
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdearagon/picture?width=200&height=200" group-title="Aragón",Cortes de Aragón
 https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GobAragon/picture?width=200&height=200" group-title="Aragón",Gobierno de Aragón
 https://www.youtube.com/channel/UCEIuOP1ex5JjB4JhtJ4Sbjg/live
@@ -406,7 +404,7 @@ http://stream.estecanaltv.com:8009/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="Canarias",Noroeste TV
 https://stream.castr.com/5d1f649bed75c92e40481734/live_19364d50fbcd11ed91bd012c3488eabc/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/qj92f7GsPI7R-YCYzsFj5mDoSCduHSgh8lwCWHFXbHAx6rNmLsB78RZlmfiqbjYzQdNh1Fj9sQ=s200" group-title="Canarias",Fuerteventura TV
-https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+https://live.lancelot.tv/directo/fuerteventura.television/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1498617906560737281/iOri7Ujk_200x200.jpg" group-title="Canarias",Factoría de Carnaval
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/calimafm/picture?width=200&height=200" group-title="Canarias",Radio Calima TV
@@ -419,7 +417,7 @@ https://www.youtube.com/channel/UCZgWIlWSqybW55cDgi8rL1A/live
 https://www.youtube.com/channel/UCv7xnuWoLWJNEXNWIGkP19g/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PRES.Gobcan/picture?width=200&height=200" group-title="Canarias",Gobierno de Canarias
 https://www.youtube.com/channel/UCOfVTY15POTQM37WNlHRCgQ/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200" group-title="Cantabria",Cantabria TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1494734877052264451/fAII0mh7_200x200.jpg" group-title="Cantabria",Cantabria TV
 https://www.youtube.com/channel/UC0sXB5ZoIoXWvqdizegaifg/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondaoccidental/picture?width=200&height=200" group-title="Cantabria",Saja Nansa TV
 https://streamlov.alsolnet.com/sajanansatv/live/playlist.m3u8
@@ -471,7 +469,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12686&live=1
 https://www.youtube.com/channel/UC6M4TvYHaFQ30IpVvjLVviw/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdecastillayleon/picture?width=200&height=200" group-title="Castilla y León",Cortes de Castilla y León
 https://directo.ccyl.es/Hemiciclo/smil:Hemiciclo.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="Castilla y León",Junta Castilla y León
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="Castilla y León",Junta de Castilla y León
 https://16escalones-live2.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Cataluña",TV3
 https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8
@@ -594,7 +592,7 @@ https://limited44.todostreaming.es/live/dejatedeh-livestream.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MluWU445ZXOKY1jqzwSoUAkqCKgvEvSfXWEADGhpHNdYpyssfwHkAsz8RlBnkSO1vT_iPVmaIg=s200" group-title="C. de Madrid",EsTuTele
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16818&live=1&avod=1&cb=[CACHEBUSTER]&site_page=https%3A%2F%2Ftdtchannels.com&site_name=tdtchannels&hls_marker=1&content_cat=IAB1&content_genre=Entertainment&content_id=Estutele&content_language=es&content_rating=TV-G&content_title=Estutele&coppa=0&ssai_enabled=1
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nMLOOCMI7LojDKtlKoYXJEmVin-_lbR4Y-TgAdQ7RvJvuinOI109sFGIl_HwbqlWn3g7qMDH=s200" group-title="C. de Madrid",Canal 33 Madrid
-https://media2.streambrothers.com:1936/8140/8140/.m3u8
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/iprotvspain/picture?width=200&height=200" group-title="C. de Madrid",iPROtv
 https://59ec5453559f0.streamlock.net/iprotv/iprotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/liratvlive/picture?width=200&height=200" group-title="C. de Madrid",LIRA TV
@@ -613,7 +611,7 @@ https://broadcasting.parlamentodenavarra.es/live/canal1/playlist.m3u8?DVR
 https://www.youtube.com/channel/UCBeUe-p0YNNP0trYcC3EKJg/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="C. Valenciana",À Punt
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="C. Valenciana",8 La Marina TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1448634676550242313/9s7UjXdC_200x200.jpg" group-title="C. Valenciana",8 La Marina TV
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
@@ -637,7 +635,7 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200" group-title="C. Valenciana",12TV Alicante
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16126&live=1&avod=0&hls_marker=1&position=preroll&pod_duration=120&app_bundle=com.streamingconnect.viva&ssai_enabled=1&content_channel=12tv&app_domain=mirametv.live&app_category=linear_tv&content_cat=IAB1&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&min_ad_duration=6&max_ad_duration=120&content_id=mirametv_live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200" group-title="C. Valenciana",TV Castelló
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200" group-title="C. Valenciana",Televisió de Castelló
 https://player.kick.com/televisiocastello
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/levantetv/picture?width=200&height=200" group-title="C. Valenciana",Levante TV
 https://player.twitch.tv/?channel=levante_tv&parent=play.tdtchannels.com
@@ -679,6 +677,8 @@ https://streamserver3.seneca.tv/cval_live/cdn_enc_3/master.m3u8
 https://www.youtube.com/channel/UC7K6JEaXU--Ky356DgE1m-Q/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura",Canal Extremadura
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/noticiasCEX/picture?width=200&height=200" group-title="Extremadura",EXN24 (Extremadura Noticias)
+https://dsdhx5k1zli7y.cloudfront.net/wct-73d928aa-5bc9-408c-97c6-61d898009440/continuous/41fa7b5f-29f3-4b34-8dee-a68fa27a7080/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura",Toros (Canal Extremadura)
 https://cdn-canalextremadura.watchity.net/fast1/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="Extremadura",Semos asina (Canal Extremadura)
@@ -721,7 +721,7 @@ https://cloud.streamingconnect.tv/hls/anove/anove.m3u8
 https://www.youtube.com/channel/UC4xDk-vc3i4CB45U7_wmm5g/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/parlamentodegalicia/picture?width=200&height=200" group-title="Galicia",Parlamento de Galicia
 https://pgalicia-live.akamaized.net/hls/live/2040697/pleno/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/@xuntadegalicia/picture?width=200&height=200" group-title="Galicia",Xunta de Galicia
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/xuntadegalicia/picture?width=200&height=200" group-title="Galicia",Xunta de Galicia
 https://xuntalive.akamaized.net/hls/live/2032287/streamxunta/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/IB3org/picture?width=200&height=200" group-title="Illes Balears",IB3 Global
 https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
@@ -737,23 +737,23 @@ https://www.youtube.com/channel/UCWq6paV7LGHW7YdR0kYLx_w/live
 https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/7riojatv/picture?width=200&height=200" group-title="La Rioja",7 La Rioja
 https://www.7riojaplay.tv/player/45E05AAE-9722-4D64-8BF4-E55EF40C76F/7Rioja%20%20Live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="La Rioja",Parlamento de La Rioja
-https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cocinafamiliarjr/picture?width=200&height=200" group-title="La Rioja",Cocina Familiar
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=16114&live=1&avod=0&hls_marker=1&pod_duration=120&position=preroll&app_bundle=com.streamingconnect.viva&app_category=linear_tv&content_cat=IAB8&content_channel=cocinafamiliar&content_genre=tv_broadcaster&content_network=streamingconnect&content_rating=TV-G&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&ifa_type=[IFA_TYPE]&ssai_enabled=1&content_id=mirametv_live&min_ad_duration=6&max_ad_duration=120&app_domain=mirametv.live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="La Rioja",Parlamento de La Rioja
+https://media.parlamento-larioja.org/live/parlarioja/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/lariojaorg/picture?width=200&height=200" group-title="La Rioja",Gobierno de La Rioja
 https://www.youtube.com/channel/UCm0tq4vpa3bWZCr5sgiA6rQ/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="Melilla",Melilla TV
-https://www.dailymotion.com/embed/video/x9jhjqk?autoplay=1
+https://geo.dailymotion.com/player/x19ukg.html?video=x9jhjqk
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/PopularTelevisionMelilla/picture?width=200&height=200" group-title="Melilla",Popular TV Melilla
 https://5940924978228.streamlock.net/8009/ngrp:8009_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="País Vasco",ETB 1
 https://cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="País Vasco",ETB 2
 https://cdn1.etbon.eus/etb2/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB1 ON
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB 1 On
 https://cdn1.etbon.eus/etb1on/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB2 ON
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB 2 On
 https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="País Vasco",ETB Eventos 1
 https://cdn1.etbon.eus/oc1/index.m3u8

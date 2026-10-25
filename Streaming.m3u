@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/realibai/picture?width=200&height=200" group-title="Streaming",Ibai
 https://player.twitch.tv/?channel=ibai&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPEKR92FAWkKk7XniD6J5Zdy5b-BH0u02P5LDAMw=s200" group-title="Streaming",Auronplay
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJUPEKR92FAWkKk7XniD6J5Zdy5b-BH0u02P5LDAMw=s200" group-title="Streaming",AuronPlay
 https://player.twitch.tv/?channel=auronplay&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1763308910692184064/PD37Hou2_200x200.jpg" group-title="Streaming",TheGrefg
 https://player.twitch.tv/?channel=thegrefg&parent=play.tdtchannels.com
@@ -9,19 +9,19 @@ https://player.twitch.tv/?channel=thegrefg&parent=play.tdtchannels.com
 https://player.twitch.tv/?channel=Rubius&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/1jxaHxZeE4bS01S1wGdRpkR_4vPpvstqTPUoViCqZ5W6jO7HF0eBR_nkBjzGCAy65fO-sggX=s200" group-title="Streaming",Gerard Romero
 https://player.twitch.tv/?channel=gerardromero&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WjoCU8JYUqibZEkKfyyqqcJQuu_OVeabYAdg-DHoVoIKeHNF7_6yMuavIV4m3bqHS5fWPUMBsGc=s200" group-title="Streaming",Illojuan
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/WjoCU8JYUqibZEkKfyyqqcJQuu_OVeabYAdg-DHoVoIKeHNF7_6yMuavIV4m3bqHS5fWPUMBsGc=s200" group-title="Streaming",IlloJuan
 https://player.twitch.tv/?channel=Illojuan&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZJXM8TB4P4cdyZdxF5B4tQFHCyzBZwOoxEwdM1A=s200" group-title="Streaming",Elxokas
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWZJXM8TB4P4cdyZdxF5B4tQFHCyzBZwOoxEwdM1A=s200" group-title="Streaming",elxokas
 https://player.twitch.tv/?channel=elxokas&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A3M8gNtFArvocv-EytF1buhnRq_athwchwpJ5cJn742R-Q2DK4nSShkzaWBjvCPqVnQ2CTJc=s200" group-title="Streaming",Guanyar
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A3M8gNtFArvocv-EytF1buhnRq_athwchwpJ5cJn742R-Q2DK4nSShkzaWBjvCPqVnQ2CTJc=s200" group-title="Streaming",GUANYAR
 https://player.twitch.tv/?channel=guanyar&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW0v2dloqL3xrStQYfxTrMUH_fD9IJhJ3SdpAzgFw=s200" group-title="Streaming",IamCristinini
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJW0v2dloqL3xrStQYfxTrMUH_fD9IJhJ3SdpAzgFw=s200" group-title="Streaming",Cristinini
 https://player.twitch.tv/?channel=iamcristinini&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/veolbCFG2UsAiiq0SUFoz5dluY4wZ8rPHOwjtGB2ofWX-uWAkMr9UccYlAYfpEGO8OpkC9oHGA=s200" group-title="Streaming",Mixwell
 https://player.twitch.tv/?channel=mixwell&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIHF_Oc2KsUnn62RutoClTgrWxcXXHfG6zwCnYjA=s200" group-title="Streaming",Juansguarnizo
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJXIHF_Oc2KsUnn62RutoClTgrWxcXXHfG6zwCnYjA=s200" group-title="Streaming",JuanSGuarnizo
 https://player.twitch.tv/?channel=juansguarnizo&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njzAxPADBPZUY4IOKiewazHI399fwe5c6NkU8fEHOwZw=s200" group-title="Streaming",Knekro
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_njzAxPADBPZUY4IOKiewazHI399fwe5c6NkU8fEHOwZw=s200" group-title="Streaming",knekro
 https://player.twitch.tv/?channel=knekro&parent=play.tdtchannels.com
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mKpJl4-mVy59lPn3X_gv1gfsufVK4yecUoW7_YAzgPMgNg04me10zA1q7B11A8Vw2dAxVY9E6A=s200" group-title="Streaming",LOLITOFDEZ
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/mKpJl4-mVy59lPn3X_gv1gfsufVK4yecUoW7_YAzgPMgNg04me10zA1q7B11A8Vw2dAxVY9E6A=s200" group-title="Streaming",LOLiTO FDEZ
 https://player.twitch.tv/?channel=lolitofdez&parent=play.tdtchannels.com

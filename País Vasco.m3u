@@ -3,9 +3,9 @@
 https://cdn1.etbon.eus/etb1/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="País Vasco",ETB 2
 https://cdn1.etbon.eus/etb2/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB1 ON
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB 1 On
 https://cdn1.etbon.eus/etb1on/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB2 ON
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GUW-ipQpsCCLhoJwWarfUDYO_vr3-5rpxhfipNSHAAvlaaWdfBwdUtVVUzs3PPyQzrSBVepKSqPzNAwDHvljII0=w200" group-title="País Vasco",ETB 2 On
 https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="País Vasco",ETB Eventos 1
 https://cdn1.etbon.eus/oc1/index.m3u8

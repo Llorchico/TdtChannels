@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportivos",Teledeporte
 https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/goltv.es/picture?width=200&height=200" group-title="Deportivos",GOL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2104982255642800128/IRiUy9-D_200x200.jpg" group-title="Deportivos",Replay
 https://geo.dailymotion.com/player/x1k3pa.html?video=k5cyQ3rl70nCl7Fhb5W
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="Deportivos",Esport3
 https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
@@ -13,6 +13,8 @@ https://live.enfoque.media:5443/live/streams/vinxtv.m3u8
 https://www.youtube.com/channel/UCOmWJETLyAlFrHkmccOQ-3w/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="Deportivos",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fcbarcelona/picture?width=200&height=200" group-title="Deportivos",Barça Play
+https://www.youtube.com/channel/UC14UlmYlSNiQCBe9Eookf_A/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/fcbarcelona/picture?width=200&height=200" group-title="Deportivos",Top Barça
 https://amg17560-fcb-amg17560c2-samsung-es-9803.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-samsunges/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200" group-title="Deportivos",Real Sociedad TV
@@ -37,6 +39,8 @@ https://www.youtube.com/channel/UCMHb51gmuIuP8dVpsHr-uEw/live
 https://www.youtube.com/channel/UCTapFcyNk2zzc7LnPUjNNQA/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ellarguero/picture?width=200&height=200" group-title="Deportivos",El Larguero SER
 https://www.youtube.com/channel/UC2BfAWhbAsmPnXHpWYKR7aQ/live
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElChiringuitoTV/picture?width=200&height=200" group-title="Deportivos",El Chiringuito Inside
+https://www.youtube.com/channel/UCznSLkPhcORf0JhonB7Aegg/live
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/TN6JuWH7_2QEyEgz81uzWfxjD4ZKqxGZhIPhJqa1lB1QwzXzKn6Fh9f_REUq-2oDElrZCZcYDw=s200" group-title="Deportivos",El 10 del Barça
 https://www.youtube.com/channel/UC4eDUzl7Ik9TlkltsqCXvDA/live
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/X0bGxD-L9n15kflOHVOKwub0JtwK7blNF8V56Jag09rQ5W1SV4QsTIfy_APiUdAMRCx_9iopaw=s200" group-title="Deportivos",ElevenTV

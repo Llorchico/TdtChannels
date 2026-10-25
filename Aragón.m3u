@@ -7,7 +7,7 @@ http://calamochatv:SPrKAXJkZH0wb0ax@pub01.dav.tcscdn.net:1083/calamochatvtcs.m3u
 https://player.twitch.tv/?channel=tvbarbastro&parent=play.tdtchannels.com
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AltoaragonTV/picture?width=200&height=200" group-title="Aragón",Altoaragón Televisión
 https://www.youtube.com/channel/UCZr6G49BImhh_ltJD2rF6rw/live
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/@cortesdearagon/picture?width=200&height=200" group-title="Aragón",Cortes de Aragón
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cortesdearagon/picture?width=200&height=200" group-title="Aragón",Cortes de Aragón
 https://www.youtube.com/channel/UCyBXbc0UicHRPJLmHppjpgQ/live
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GobAragon/picture?width=200&height=200" group-title="Aragón",Gobierno de Aragón
 https://www.youtube.com/channel/UCEIuOP1ex5JjB4JhtJ4Sbjg/live
